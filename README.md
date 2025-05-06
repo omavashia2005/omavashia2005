@@ -35,7 +35,3 @@
 - 📧 Email: [oavashia@asu.edu](mailto:oavashia@asu.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/omavashia)
 - 💻 [GitHub](https://github.com/omavashia2005)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=omavashia2005&theme=tokyonight)](https://git.io/streak-stats)
