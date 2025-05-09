@@ -34,4 +34,3 @@
 
 - 📧 Email: [oavashia@asu.edu](mailto:oavashia@asu.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/omavashia)
-- 💻 [GitHub](https://github.com/omavashia2005)
