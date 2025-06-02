@@ -16,7 +16,7 @@
   - JWT-based login
   - BCrypt password hashing
   - Custom AuthFilter, exception handling
-  - PostgreSQL integration using JPA
+  - PostgreSQL integration using JDBC
 - Implemented protection against brute force attacks and future plans include Redis for blocked users and rate limits.
 - 🔒 Security-focused with scalable architecture and production-style layered design.
 
