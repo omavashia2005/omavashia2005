@@ -21,6 +21,11 @@
 - 🔒 Security-focused with scalable architecture and production-style layered design.
 
 ---
+### Open Source Contribution(s)
+- ✅ Contributed to Dify’s Python SDK (https://github.com/langgenius/dify/pull/22476): Exposed missing imports and added documentation for `WorkflowClient` and `KnowledgeBaseClient`
+
+
+---
 
 ### 💻 Technical Stack
 
