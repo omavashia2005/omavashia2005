@@ -22,8 +22,10 @@
 
 ---
 ### Open Source Contributions
-- 🛠️ (Open) PR to Kubernetes Python client (https://github.com/kubernetes-client/python/pull/2420) fixing a bug in RFC3339 timestamp parsing. Added error handling and unit tests to prevent crashes when config datetime strings are invalid.
-- ✅ (Closed) PR Contributed to Dify’s Python SDK (https://github.com/langgenius/dify/pull/22476): Exposed missing imports and added documentation for `WorkflowClient` and `KnowledgeBaseClient`
+
+- 🛠️ (Open) PR to Kubernetes Python client (https://github.com/kubernetes-client/python/pull/2420): Fixing a bug in RFC3339 timestamp parsing. Added error handling and unit tests to prevent crashes when config datetime strings are invalid.
+  
+- ✅ (Merged) PR to Dify’s Python SDK (https://github.com/langgenius/dify/pull/22476): Exposed missing imports and added documentation for `WorkflowClient` and `KnowledgeBaseClient`
 
 
 ---
