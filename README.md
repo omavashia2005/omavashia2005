@@ -21,8 +21,9 @@
 - 🔒 Security-focused with scalable architecture and production-style layered design.
 
 ---
-### Open Source Contribution(s)
-- ✅ Contributed to Dify’s Python SDK (https://github.com/langgenius/dify/pull/22476): Exposed missing imports and added documentation for `WorkflowClient` and `KnowledgeBaseClient`
+### Open Source Contributions
+- 🛠️ (Open) PR to Kubernetes Python client (#2420) fixing a bug in RFC3339 timestamp parsing. Added error handling and unit tests to prevent crashes when config datetime strings are invalid.
+- ✅ (Closed) PR Contributed to Dify’s Python SDK (https://github.com/langgenius/dify/pull/22476): Exposed missing imports and added documentation for `WorkflowClient` and `KnowledgeBaseClient`
 
 
 ---
