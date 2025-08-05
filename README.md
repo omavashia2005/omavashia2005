@@ -11,7 +11,7 @@
 
 ### 🛠️ Currently Working On
 
-#### ✍️ LLM-Powered Contract Generation @ [IP Author](https://ipauthor.com)
+#### ✍️ LLM-Powered Patenting @ [IP Author](https://ipauthor.com)
 **Tech**: Python · FastAPI · React · Flask · TipTap · Dify.ai
 - Reduced development time by 50% by redesigning and migrating an LLM-based drafting endpoint from a remote proxy API to a Dify workflow and from a custom Quill editor to TipTap
 - Contributed to Dify’s open-source Python SDK by adding missing imports and writing developer-facing documentation [PR #22476, Merged]
