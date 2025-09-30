@@ -1,21 +1,31 @@
 <h1 align="center">Hi, I'm Om Avashia 👋</h1>
 
 <p align="center">
-  👨‍💻 Software Engineer Intern @ IP Author  <br/>
+  👨‍💻 AI Research Volunteer @ ASU APG <br/>
+  🕙 Prev Software Engineer Intern @ IP Author  <br/>
   🚀 Junior @ Arizona State University <br/>
   🎓 B.S. in Computer Science  <br/>
-  🧠 Backend & AI Engineering | Open Source Contributor <br/>
+  🧠 Backend & AI Engineer | Open Source Contributor <br/>
 </p>
 
 ---
-
 ### 🛠️ Currently Working On
+AI Research Volunteer @ ASU APG
+- Developed instrumentation to analyze 10K+ LLM training epochs, enabling research on LLM generalization and grokking
+- Produced 300+ Hessian top eigenvalues, loss landscapes, and weight norms to visualize and quantify experiment results
+- Trained a small LLM on the Sol Supercomputer with NVIDIA L40 GPUs in CUDA-accelerated environments (PyTorch + Mamba), using Matplotlib for data visualization of key metrics collected during experimentation
+
+### 🕙 Previous Work Experience
 
 #### ✍️ LLM-Powered Patenting @ [IP Author](https://ipauthor.com)
 **Tech**: Python · FastAPI · React · Flask · TipTap · Dify.ai
-- Reduced development time by 50% by redesigning and migrating an LLM-based drafting endpoint from a remote proxy API to a Dify workflow and from a custom Quill editor to TipTap
-- Contributed to Dify’s open-source Python SDK by adding missing imports and writing developer-facing documentation [PR #22476, Merged]
-- Led full-stack refactor of a production feature with 2.5K LOC contributed; collaborated with frontend, backend, and prompt engineering teams to stage rollout and prepare for deployment
+- Reduced feature development time by 50% by refactoring full-stack systems (Python/Flask + React), improving the
+scalability and usability of AI-driven processes, used by clients like Google and Siemens
+- Contributed to Dify’s open source AI workflow platform, enhancing the Python SDK with new imports, documentation, and
+testing, and collaborating with the team to improve developer experience and workflow reproducibility
+- Worked with a 5-person cross-functional team (tech lead, backend, frontend, prompt engineer, and founder) to plan
+end-to-end features, conduct code reviews, and align on iterative rollout schedules
+- Followed structured SDLC using Jira to manage milestones, branches, and PR workflows across full-stack deliverables
 
 
 
