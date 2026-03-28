@@ -35,5 +35,6 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [oavashia@asu.edu](mailto:oavashia@asu.edu)
-- 💼 [LinkedIn](https://linkedin.com/in/omavashia)
+- X: [@avashiaom](http://x.com/avashiaom)
+- Email: [oavashia@asu.edu](mailto:oavashia@asu.edu)
+- [LinkedIn](https://linkedin.com/in/omavashia)
