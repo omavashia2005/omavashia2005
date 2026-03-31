@@ -12,9 +12,7 @@
 ### 🛠️ Currently Working On
 #### Incoming SWE Intern @ Wells Fargo
   - Summer 2026
-#### Computer Vision Research @ ASU APG
-  - Simulation Environments for Autonomous Vehicles
-
+    
 ### 🕙 Previous Work Experience
 
 #### Software Engineer Intern · *[IP Author](https://ipauthor.com)* (May–Aug 2025)
