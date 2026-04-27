@@ -10,6 +10,12 @@
 
 ---
 ### 🛠️ Currently Working On
+  - Something cool for Claude Code (and Codex, Opencode etc) 
+  
+  - Research (3DGS / Reconstruction / NVS etc) 
+
+  - A (small) multiplayer CLI-based game in Golang (coming soon)
+    
 #### Incoming SWE Intern @ Wells Fargo
   - Summer 2026
     
