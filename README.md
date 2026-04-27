@@ -29,14 +29,6 @@
 - Worked in a 5-person cross-functional team (tech lead, backend, frontend, prompt engineer, founder) to plan end-to-end features, code reviews, and iterative rollout
 - Contributed to Dify's open source AI workflow platform — enhanced the Python SDK, documentation, and testing
 
-### 💻 Tech Stack
-
-- **Languages**: Python · C/C++ · Java · Go · JavaScript/TypeScript  
-- **Frameworks**: FastAPI · Flask · React · Next.js · Spring Boot · Cloudflare Workers/Pages  
-- **Infra & DBs**: Docker · Redis · PostgreSQL · MySQL · Supabase 
-- **ML/AI**: PyTorch · 3D Gaussian Splatting · CUDA 
-
-
 ### 📫 Let's Connect
 
 - X: [@avashiaom](http://x.com/avashiaom)
