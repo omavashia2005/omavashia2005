@@ -16,7 +16,7 @@
 
 Some projects you won't find here that I've shipped (private repos): 
   - [ASU dining hall ranker](http://asudines.com). Got about 100 users on day 1.
-  - [Canvasbot](http://canvasbot.pages.dev). Built completely for myself because the Canvas file management system is clunky and slow. I made it faster.   Unfortunately ASU stopped handing out API tokens for Canvas. 
+  - [Canvasbot](http://canvasbot.pages.dev). Built completely for myself because the Canvas file management system is clunky and slow. I made it faster. 
     
 #### Incoming SWE Intern @ Wells Fargo
   - Summer 2026
