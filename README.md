@@ -1,38 +1,17 @@
-<h1 align="center">Hi, I'm Om Avashia 👋</h1>
+Hi! I'm Om!
 
-<p align="center">
-  Incoming SWE Intern @ Wells Fargo <br/>
-  Computer Vision Research  @ ASU APG <br/>
-  Prev Software Engineer Intern @ IP Author  <br/>
-  Junior @ Arizona State University <br/>
-  B.S. in Computer Science  <br/>
-</p>
-
----
-### 🛠️ Currently Working On
-  - Something cool for Claude Code (and Codex, Opencode etc) 
-  
+**Currently building**
+  - Something cool for coding agents
   - Research (3DGS / Reconstruction / NVS etc) 
 
-Some projects you won't find here that I've shipped (private repos): 
-  - [ASU dining hall ranker](http://asudines.com). Got about 100 users on day 1.
-  - [Canvasbot](http://canvasbot.pages.dev). Built completely for myself because the Canvas file management system is clunky and slow. I made it faster. 
-    
-#### Incoming SWE Intern @ Wells Fargo
-  - Summer 2026
-    
-### 🕙 Previous Work Experience
+**Some recent projects** </br>
 
-#### Software Engineer Intern · *[IP Author](https://ipauthor.com)* (May–Aug 2025)
+[![npm downloads](https://img.shields.io/npm/dt/@oavashia/yank.svg)](https://www.npmjs.com/package/@oavashia/yank)
+[yank](https://github.com/omavashia2005/yank): Copy the last Claude Code response to your clipboard with `/yank`. `npm i @oavashia/yank` 
 
-**Tech**: Python · Flask · React (TipTap) · AWS · Dify.ai
+[![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
+[agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code  sessions as a live 3D force-directed graph in your browser. `bun install -g agentgit` 
 
-- Reduced feature development time by 50% by refactoring full-stack, cloud-native systems with modern UI frameworks and design patterns across GenAI-driven microservices
-- Worked in a 5-person cross-functional team (tech lead, backend, frontend, prompt engineer, founder) to plan end-to-end features, code reviews, and iterative rollout
-- Contributed to Dify's open source AI workflow platform — enhanced the Python SDK, documentation, and testing
+[ASU dining hall ranker](http://asudines.com). Got about 100 users on day 1.
 
-### 📫 Let's Connect
-
-- X: [@avashiaom](http://x.com/avashiaom)
-- Email: [oavashia@asu.edu](mailto:oavashia@asu.edu)
-- [LinkedIn](https://linkedin.com/in/omavashia)
+[Canvasbot](http://canvasbot.pages.dev). Built completely for myself because the Canvas file management system is clunky and slow. I made it faster. 
