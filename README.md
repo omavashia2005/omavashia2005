@@ -10,7 +10,7 @@ Hi! I'm Om!
 [yank](https://github.com/omavashia2005/yank): Copy the last Claude Code response to your clipboard with `/yank`. `npm i @oavashia/yank` 
 
 [![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
-[agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code  sessions as a live 3D force-directed graph in your browser. `bun install -g agentgit` 
+[agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
 
 [ASU dining hall ranker](http://asudines.com). Got about 100 users on day 1.
 
