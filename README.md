@@ -6,7 +6,7 @@ Something cool to let you parallely run 10 claude code / codex / opencode / [you
   
 Research (3DGS / Reconstruction / NVS etc) 
 
-_**Recent projects** </br>_
+_**Relevant projects** </br>_
 
 [![npm downloads](https://img.shields.io/npm/dt/@oavashia/yank.svg)](https://www.npmjs.com/package/@oavashia/yank)
 [yank](https://github.com/omavashia2005/yank): Copy the last Claude Code response to your clipboard with `/yank`. `npm i @oavashia/yank` 
