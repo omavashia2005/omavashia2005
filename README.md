@@ -4,7 +4,7 @@ _**Currently building**_
 
 Something cool to let you parallely run 10 claude code / codex / opencode / [your coding agent] sessions 
   
-Research (3DGS / Reconstruction / NVS etc) 
+Research (3DGS / Reconstruction / NVS etc). More details soon!
 
 _**Relevant projects** </br>_
 
