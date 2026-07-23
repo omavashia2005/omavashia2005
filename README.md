@@ -6,6 +6,7 @@ _**Currently building**_
 
 Research (3DGS / Reconstruction / NVS etc). More details soon!
 
+---
 _**Relevant projects** </br>_
 
 [hydra](https://github.com/gholtzap/hydra): Open source coding agent orchestrator. Run 10 claude code/codex/opencode/etc sessions parallely. 
@@ -19,3 +20,8 @@ _**Relevant projects** </br>_
 [ASU dining hall ranker](http://asudines.com): Got about 100 users on day 1.
 
 [Canvasbot](http://canvasbot.pages.dev): Built completely for myself because the Canvas file management system is clunky and slow. I made it faster and gave an agent access to it all. 
+
+--- 
+**Recent OSS Work**
+
+pingora [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
