@@ -1,7 +1,8 @@
 Hi! I'm Om!
 
 _**Currently building**_
-  
+
+[viking](https://github.com/omavashia2005/viking): Raycast/Spotlight Search but better
 Research (3DGS / Reconstruction / NVS etc). More details soon!
 
 _**Relevant projects** </br>_
