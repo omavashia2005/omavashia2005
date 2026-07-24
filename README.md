@@ -17,6 +17,9 @@ _**Relevant projects** </br>_
 [![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
 [agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
 
+[![npm downloads](https://img.shields.io/npm/dt/ai-tool-elements)](https://www.npmjs.com/package/ai-tool-elements)
+[ai-tool-elements](https://ai-tool-elements.vercel.app): React components for every tool your agent needs. `npm install ai-tool-elements`
+
 [ASU dining hall ranker](http://asudines.com): Got about 100 users on day 1.
 
 [Canvasbot](http://canvasbot.pages.dev): Built completely for myself because the Canvas file management system is clunky and slow. I made it faster and gave an agent access to it all. 
@@ -24,4 +27,4 @@ _**Relevant projects** </br>_
 --- 
 **Recent OSS Work**
 
-pingora [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
+[cloudflare/pingora](https://github.com/cloudflare/pingora): [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
