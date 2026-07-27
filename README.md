@@ -7,11 +7,11 @@ Hi! I'm Om! I build stuff.
 [![npm downloads](https://img.shields.io/npm/dt/@oavashia/yank.svg)](https://www.npmjs.com/package/@oavashia/yank)
 [yank](https://github.com/omavashia2005/yank): Copy the last Claude Code response to your clipboard with `/yank`. `npm i @oavashia/yank` 
 
-[![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
-[agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
-
 [![npm downloads](https://img.shields.io/npm/dt/ai-tool-elements)](https://www.npmjs.com/package/ai-tool-elements)
 [ai-tool-elements](https://ai-tool-elements.vercel.app): React components for every tool your agent needs. `npm install ai-tool-elements`
+
+[![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
+[agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
 
 [ASU dining hall ranker](http://asudines.com): Got about 300 users over a week.
 
