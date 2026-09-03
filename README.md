@@ -1,5 +1,7 @@
 Hi! I'm Om! I build stuff. 
 
+[emberdb](https://github.com/omavashia2005/emberdb): Blazing fast distributed Redis-compatible (RESP3) key-value store in Golang
+
 [hydra](https://github.com/gholtzap/hydra): Open source coding agent orchestrator. Run 10 claude code/codex/opencode/etc sessions parallely. 
 
 [![npm downloads](https://img.shields.io/npm/dt/@oavashia/yank.svg)](https://www.npmjs.com/package/@oavashia/yank)
