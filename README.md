@@ -22,5 +22,3 @@ Hi! I'm Om! I build stuff.
 [cloudflare/pingora](https://github.com/cloudflare/pingora): [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
 
 Research (3DGS / Reconstruction / NVS etc). More details soon!
-
-  <img src="https://komarev.com/ghpvc/?username=omavashia2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
