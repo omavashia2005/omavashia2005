@@ -21,4 +21,4 @@ Hi! I'm Om! I build stuff.
 
 [cloudflare/pingora](https://github.com/cloudflare/pingora): [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
 
-Research (3DGS / Reconstruction / NVS etc). More details soon!
+Research: (3DGS / Reconstruction / NVS etc). More details soon!
