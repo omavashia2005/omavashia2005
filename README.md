@@ -17,6 +17,8 @@ Hi! I'm Om! I build stuff.
 
 [Canvasbot](http://canvasbot.pages.dev): Built completely for myself because the Canvas file management system is clunky and slow. I made it faster and gave an agent access to it all. 
 
+[imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui): [#3](https://github.com/imkerberos/nvim-gpui/pull/3)
+
 [xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit): [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39)
 
 [cloudflare/pingora](https://github.com/cloudflare/pingora): [#926](https://github.com/cloudflare/pingora/pull/926) and [#928](https://github.com/cloudflare/pingora/pull/928)
