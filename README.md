@@ -38,4 +38,5 @@ Hi! I'm Om! I build stuff.
 
 
 
-Research: (3DGS / Reconstruction / NVS etc). More details soon!
+### Research
+3DGS / Reconstruction / NVS / World Models for Autonomous Vehicles. More details soon
