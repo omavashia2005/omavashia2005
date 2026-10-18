@@ -19,18 +19,24 @@ Hi! I'm Om! I build stuff.
 ### Open Source
 #### Merged
 
-[imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui): [#3](https://github.com/imkerberos/nvim-gpui/pull/3) feat: make themed titlebar optional
+[imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui)
+> [#3](https://github.com/imkerberos/nvim-gpui/pull/3) feat: make themed titlebar optional
 
-[xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit): [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39) Fixed an infinite loop bug in the dataprocessing pipeline
+[xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit)
+> [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39) Fixed an infinite loop bug in the dataprocessing pipeline
 
-[langgenius/dify](https://github.com/langgenius/dify): [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. Added documentation for WorkflowClient.
+[langgenius/dify](https://github.com/langgenius/dify) 
+> [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. Added documentation for WorkflowClient.
 
 
 
 #### Open/Under Review
-[anomalyco/opentui](https://github.com/anomalyco/opentui): [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
+[anomalyco/opentui](https://github.com/anomalyco/opentui)
+> [#1701](https://github.com/anomalyco/opentui/pull/1701) fix: Kitty graphics queries are answered OK, but images are never shown
 
-[cloudflare/pingora](https://github.com/cloudflare/pingora): 
+> [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
+
+[cloudflare/pingora](https://github.com/cloudflare/pingora)
 
 > [#926](https://github.com/cloudflare/pingora/pull/926) Finishing TODO in pingora-header-serde for checking if path is a file + avoiding panics on unwrap
 
