@@ -19,6 +19,9 @@ Hi! I'm Om! I build stuff.
 ### Open Source
 #### Merged
 
+[apache/texera](https://github.com/apache/texera)
+> [#9020](https://github.com/apache/texera/pull/9020) refactor(frontend): drop unused generated protobuf TypeScript
+
 [imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui)
 > [#3](https://github.com/imkerberos/nvim-gpui/pull/3) feat: make themed titlebar optional
 
