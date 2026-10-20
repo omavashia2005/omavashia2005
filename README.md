@@ -34,9 +34,10 @@ Hi! I'm Om! I build stuff.
 
 
 #### Open/Under Review
-[anomalyco/opentui](https://github.com/anomalyco/opentui)
-> [#1701](https://github.com/anomalyco/opentui/pull/1701) fix: Kitty graphics queries are answered OK, but images are never shown
+[rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+> [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction lint
 
+[anomalyco/opentui](https://github.com/anomalyco/opentui)
 > [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
 
 [cloudflare/pingora](https://github.com/cloudflare/pingora)
