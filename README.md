@@ -19,33 +19,25 @@ Hi! I'm Om! I build stuff.
 ### Open Source
 #### Merged
 
-[apache/texera](https://github.com/apache/texera)
-> [#9020](https://github.com/apache/texera/pull/9020) refactor(frontend): drop unused generated protobuf TypeScript
+[apache/texera](https://github.com/apache/texera) - [#9020](https://github.com/apache/texera/pull/9020) refactor(frontend): drop unused generated protobuf TypeScript
 
-[imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui)
-> [#3](https://github.com/imkerberos/nvim-gpui/pull/3) feat: make themed titlebar optional
+[imkerberos/nvim-gpui](https://github.com/imkerberos/nvim-gpui) - [#3](https://github.com/imkerberos/nvim-gpui/pull/3) feat: make themed titlebar optional
 
-[xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit)
-> [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39) Fixed an infinite loop bug in the dataprocessing pipeline
+[xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit) - [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39) Fixed an infinite loop bug in the dataprocessing pipeline
 
-[langgenius/dify](https://github.com/langgenius/dify) 
-> [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. Added documentation for WorkflowClient.
-
+[langgenius/dify](https://github.com/langgenius/dify) - [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. Added documentation for WorkflowClient.
 
 
 #### Open/Under Review
-[rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-> [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction and MIR lints
+[rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction and MIR lints
 
-[anomalyco/opentui](https://github.com/anomalyco/opentui)
-> [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
+[anomalyco/opentui](https://github.com/anomalyco/opentui) - [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
 
-[cloudflare/pingora](https://github.com/cloudflare/pingora)
+[cloudflare/pingora](https://github.com/cloudflare/pingora) 
 
 > [#926](https://github.com/cloudflare/pingora/pull/926) Finishing TODO in pingora-header-serde for checking if path is a file + avoiding panics on unwrap
 
 > [#928](https://github.com/cloudflare/pingora/pull/928) Implementing the TODO in pingora-core rustls listener to avoid panics by returning a Result
-
 
 
 ### Research
