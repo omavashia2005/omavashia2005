@@ -25,8 +25,7 @@ Hi! I'm Om! I build stuff.
 
 [xiaobiaodu/3DRealCar_Toolkit](https://github.com/xiaobiaodu/3DRealCar_Toolkit) - [#39](https://github.com/xiaobiaodu/3DRealCar_Toolkit/pull/39) Fixed an infinite loop bug in the dataprocessing pipeline
 
-[langgenius/dify](https://github.com/langgenius/dify) - [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. Added documentation for WorkflowClient.
-
+[langgenius/dify](https://github.com/langgenius/dify) - [#22476](https://github.com/langgenius/dify/pull/22476) fix: Python SDK WorkflowClient and KnowledgeBase client imports fixed. 
 
 #### Open/Under Review
 [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction and MIR lints
