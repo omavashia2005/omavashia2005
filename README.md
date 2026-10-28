@@ -1,7 +1,11 @@
 Hi! I'm Om! I build stuff. 
 
 ### Relevant projects
+[.sct](https://github.com/omavashia2005/.sct): Never commit your secrets again with .sct, a MacOS Keychain-backed vault for all your environment variables.
+
 [emberdb](https://github.com/omavashia2005/emberdb): Blazing fast distributed Redis-compatible (RESP3) key-value store in Golang
+
+[veto](https://github.com/omavashia2005/veto): Rust + Ratatui based 3D Git Commit Graph Viewer
 
 [hydra](https://github.com/gholtzap/hydra): Open source coding agent orchestrator. Run 10 claude code/codex/opencode/etc sessions parallely. 
 
@@ -13,8 +17,6 @@ Hi! I'm Om! I build stuff.
 
 [![npm downloads](https://img.shields.io/npm/dt/agentgit)](https://www.npmjs.com/package/agentgit)
 [agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
-
-[ASU dining hall ranker](http://asudines.com): Got about 300 users over a week.
 
 ### Open Source
 #### Merged
