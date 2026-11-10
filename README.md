@@ -33,8 +33,6 @@ Hi! I'm Om! I build stuff.
 #### Open/Under Review
 [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction and MIR lints
 
-[anomalyco/opentui](https://github.com/anomalyco/opentui) - [#1694](https://github.com/anomalyco/opentui/pull/1694) Fixes #1693 core: report why a CliRenderer was destroyed (Ctrl+C, signal, output failure, or destroy())
-
 [cloudflare/pingora](https://github.com/cloudflare/pingora) 
 
 > [#926](https://github.com/cloudflare/pingora/pull/926) Finishing TODO in pingora-header-serde for checking if path is a file + avoiding panics on unwrap
