@@ -33,11 +33,10 @@ Hi! I'm Om! I build stuff.
 #### Open/Under Review
 [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - [#17902](https://github.com/rust-lang/rust-clippy/pull/17902) Add call_missing_target_feature restriction and MIR lints
 
+[yakkomajuri/lynx](https://github.com/yakkomajuri/lynx) - [#26](https://github.com/yakkomajuri/lynx/pull/26) perf: Improve app startup time by reading PATH after window shows
+
 [cloudflare/pingora](https://github.com/cloudflare/pingora) 
-
-> [#926](https://github.com/cloudflare/pingora/pull/926) Finishing TODO in pingora-header-serde for checking if path is a file + avoiding panics on unwrap
-
-> [#928](https://github.com/cloudflare/pingora/pull/928) Implementing the TODO in pingora-core rustls listener to avoid panics by returning a Result
+[#926](https://github.com/cloudflare/pingora/pull/926) Finishing TODO in pingora-header-serde for checking if path is a file + avoiding panics on unwrap
 
 
 ### Research
