@@ -17,7 +17,7 @@ Hi! I'm Om! I build stuff.
 [agentgit](https://github.com/omavashia2005/agentgit/tree/main): Visualize Claude Code sessions as 3D graphs. `bun install -g agentgit` 
 
 [![npm downloads](https://img.shields.io/npm/dt/dotsct)](https://www.npmjs.com/package/dotsct)
-[.sct](https://github.com/omavashia2005/.sct): Never commit your secrets again with .sct, a MacOS Keychain-backed vault for all your environment variables.
+[.sct](https://github.com/omavashia2005/.sct): Never commit your secrets again with .sct, a MacOS Keychain-backed vault for all your env variables.
 
 ### Open Source
 #### Merged
