@@ -1,7 +1,7 @@
 Hi! I'm Om! I build stuff. 
 
 ### Relevant projects
-[emberdb](https://github.com/omavashia2005/emberdb): Blazing fast distributed Redis-compatible (RESP3) key-value store in Golang
+[emberdb](https://github.com/omavashia2005/emberdb): Blazing fast implementation of Redis Clusters in Golang
 
 [veto](https://github.com/omavashia2005/veto): Rust + Ratatui based 3D Git Commit Graph Viewer
 
